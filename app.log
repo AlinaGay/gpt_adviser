@@ -1,0 +1,8 @@
+2024-07-26 13:07:29,642 - INFO - Received request: {'message': 'Hello, bot!'}
+2024-07-26 13:07:29,642 - INFO - User message: Hello, bot!
+2024-07-26 13:07:29,642 - INFO - Calling ChatGPT API with message: Hello, bot!
+2024-07-26 13:07:29,642 - ERROR - Error while calling ChatGPT API: API error
+2024-07-26 13:07:29,644 - INFO - Received request: {'message': 'Hello, bot!'}
+2024-07-26 13:07:29,644 - INFO - User message: Hello, bot!
+2024-07-26 13:07:29,644 - INFO - Calling ChatGPT API with message: Hello, bot!
+2024-07-26 13:07:29,644 - INFO - ChatGPT response chunk: Hello
