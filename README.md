@@ -84,5 +84,6 @@ curl -X POST http://localhost:5000/api/answer \
 To run tests, you should add a test suite to your project. You can use libraries like pytest for this purpose.
 ```python
 pip install pytest
+OPENAI_API_KEY=your_openai_api_key
 python -m unittest test_app.py
 ```
