@@ -16,7 +16,7 @@ Swagger Documentation: Automatically generated API documentation using Flasgger 
 ## Prerequisites
 
 * Python 3.7 or higher
-* OpenAI API key
+* Valid OpenAI API key
 
 ## Installation
 
@@ -46,6 +46,7 @@ Ensure you replace your_openai_api_key with your actual OpenAI API key.
 
 1. Run the Flask Application
 ```python
+export OPENAI_API_KEY=your_openai_api_key
 python run.py
 ```
 2. Access the Application
