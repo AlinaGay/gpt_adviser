@@ -87,3 +87,6 @@ pip install pytest
 OPENAI_API_KEY=your_openai_api_key
 python -m unittest test_app.py
 ```
+# Video perfomance
+
+`https://www.youtube.com/watch?v=ZtGR2FwtE-8`
