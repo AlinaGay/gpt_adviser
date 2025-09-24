@@ -90,3 +90,8 @@ python -m unittest test_app.py
 # Video perfomance
 
 [https://www.youtube.com/watch?v=ZtGR2FwtE-8](Video)
+
+## Author
+
+[AlinaGay](https://github.com/AlinaGay)
+| Backend Developer • Python Engineer |
